@@ -1,0 +1,11 @@
+Câu 1. Trong JavaScript, đoạn mã này: const case = 'dung tu khoa dat ten bien'; bị lỗi gì?
+D. Dùng từ khóa để đặt tên biến
+Câu 2. Trong JavaScript, dòng mã sau sẽ xuất gì ra màn hình?
+typeof(3.1415);
+B. Number
+Câu 3. Khi lập trình, có nhiều cách để viết tên các biến, ví dụ một biến có tên là  
+fullName thì nó được viết theo phong cách gì?
+C. camelCase
+Câu 4. Trong JavaScript, tên biến nào sau đây bị lỗi?
+D. var $fullName = 'nguyen van teo';
+
